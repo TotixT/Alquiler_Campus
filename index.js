@@ -30,7 +30,7 @@ app.use('/empleado', routerEmpleado)
 app.use('/suc_aut', routerSucursal_Automovil)
 app.use('/alquiler', routerAlquiler)
 app.use('/reserva', routerReserva)
-// No sabia si hacerlos o no, ya que 
+// No sabia si hacerlos o no, ya que no entendi bien la parte de los cruds a hacer
 // app.use('/entrega', routerEntrega)
 // app.use('/devolucion', routerDevolucion)
 
