@@ -46,6 +46,7 @@ router.get("/EndPoint18", [authMiddleware], EndPoint18);
 router.get("/EndPoint19", [authMiddleware], EndPoint19);
 router.post("/EndPoint20", [
     check('cli_dni','El Dni del Cliente no es valido').not().isEmpty(),
+    validateDocuments
 ], EndPoint20);
 router.get("/EndPoint21", [authMiddleware], EndPoint21);
 
