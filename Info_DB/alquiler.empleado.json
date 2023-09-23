@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6508a2bd43f9b67393d96212"
+  },
+  "emp_nombre": "Carlos",
+  "emp_apellido": "Gómez",
+  "emp_dni": "12345678",
+  "emp_direccion": "Calle Principal 123",
+  "emp_telefono": "+1234567890",
+  "emp_cargo": "Vendedor"
+},
+{
+  "_id": {
+    "$oid": "6508a2bd43f9b67393d96213"
+  },
+  "emp_nombre": "Ana",
+  "emp_apellido": "López",
+  "emp_dni": "23456789",
+  "emp_direccion": "Avenida Central 456",
+  "emp_telefono": "+2345678901",
+  "emp_cargo": "Vendedor"
+},
+{
+  "_id": {
+    "$oid": "6508a2bd43f9b67393d96214"
+  },
+  "emp_nombre": "Luis",
+  "emp_apellido": "Martínez",
+  "emp_dni": "34567890",
+  "emp_direccion": "Calle Secundaria 789",
+  "emp_telefono": "+3456789012",
+  "emp_cargo": "Gerente"
+},
+{
+  "_id": {
+    "$oid": "6508a2bd43f9b67393d96215"
+  },
+  "emp_nombre": "Sofía",
+  "emp_apellido": "García",
+  "emp_dni": "45678901",
+  "emp_direccion": "Avenida Norte 101",
+  "emp_telefono": "+4567890123",
+  "emp_cargo": "Asistente"
+},
+{
+  "_id": {
+    "$oid": "6508a2bd43f9b67393d96216"
+  },
+  "emp_nombre": "Diego",
+  "emp_apellido": "Ramos",
+  "emp_dni": "56789012",
+  "emp_direccion": "Calle Oeste 202",
+  "emp_telefono": "+5678901234",
+  "emp_cargo": "Vendedor"
+},
+{
+  "_id": {
+    "$oid": "6508a2bd43f9b67393d96217"
+  },
+  "emp_nombre": "Laura",
+  "emp_apellido": "Pérez",
+  "emp_dni": "67890123",
+  "emp_direccion": "Avenida Sur 303",
+  "emp_telefono": "+6789012345",
+  "emp_cargo": "Gerente"
+},
+{
+  "_id": {
+    "$oid": "6508a2bd43f9b67393d96218"
+  },
+  "emp_nombre": "Pedro",
+  "emp_apellido": "Díaz",
+  "emp_dni": "78901234",
+  "emp_direccion": "Calle Este 404",
+  "emp_telefono": "+7890123456",
+  "emp_cargo": "Asistente"
+},
+{
+  "_id": {
+    "$oid": "6508a2bd43f9b67393d96219"
+  },
+  "emp_nombre": "Natalia",
+  "emp_apellido": "Torres",
+  "emp_dni": "89012345",
+  "emp_direccion": "Avenida Oeste 505",
+  "emp_telefono": "+8901234567",
+  "emp_cargo": "Vendedor"
+},
+{
+  "_id": {
+    "$oid": "6508a2bd43f9b67393d9621a"
+  },
+  "emp_nombre": "Eduardo",
+  "emp_apellido": "González",
+  "emp_dni": "90123456",
+  "emp_direccion": "Calle Principal 606",
+  "emp_telefono": "+9012345678",
+  "emp_cargo": "Gerente"
+},
+{
+  "_id": {
+    "$oid": "6508a2bd43f9b67393d9621b"
+  },
+  "emp_nombre": "Isabel",
+  "emp_apellido": "Fernández",
+  "emp_dni": "01234567",
+  "emp_direccion": "Avenida Central 707",
+  "emp_telefono": "+0123456789",
+  "emp_cargo": "Asistente"
+}]

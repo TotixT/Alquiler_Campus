@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65089fd043f9b67393d961f4"
+  },
+  "suc_nombre": "Sucursal A",
+  "suc_direccion": "Calle Principal 123",
+  "suc_telefono": "+1234567890"
+},
+{
+  "_id": {
+    "$oid": "65089fd043f9b67393d961f5"
+  },
+  "suc_nombre": "Sucursal B",
+  "suc_direccion": "Avenida Central 456",
+  "suc_telefono": "+2345678901"
+},
+{
+  "_id": {
+    "$oid": "65089fd043f9b67393d961f6"
+  },
+  "suc_nombre": "Sucursal C",
+  "suc_direccion": "Calle Secundaria 789",
+  "suc_telefono": "+3456789012"
+},
+{
+  "_id": {
+    "$oid": "65089fd043f9b67393d961f7"
+  },
+  "suc_nombre": "Sucursal D",
+  "suc_direccion": "Avenida Norte 101",
+  "suc_telefono": "+4567890123"
+},
+{
+  "_id": {
+    "$oid": "65089fd043f9b67393d961f8"
+  },
+  "suc_nombre": "Sucursal E",
+  "suc_direccion": "Calle Oeste 202",
+  "suc_telefono": "+5678901234"
+},
+{
+  "_id": {
+    "$oid": "65089fd043f9b67393d961f9"
+  },
+  "suc_nombre": "Sucursal F",
+  "suc_direccion": "Avenida Sur 303",
+  "suc_telefono": "+6789012345"
+},
+{
+  "_id": {
+    "$oid": "65089fd043f9b67393d961fa"
+  },
+  "suc_nombre": "Sucursal G",
+  "suc_direccion": "Calle Este 404",
+  "suc_telefono": "+7890123456"
+},
+{
+  "_id": {
+    "$oid": "65089fd043f9b67393d961fb"
+  },
+  "suc_nombre": "Sucursal H",
+  "suc_direccion": "Avenida Oeste 505",
+  "suc_telefono": "+8901234567"
+},
+{
+  "_id": {
+    "$oid": "65089fd043f9b67393d961fc"
+  },
+  "suc_nombre": "Sucursal I",
+  "suc_direccion": "Calle Principal 606",
+  "suc_telefono": "+9012345678"
+},
+{
+  "_id": {
+    "$oid": "65089fd043f9b67393d961fd"
+  },
+  "suc_nombre": "Sucursal J",
+  "suc_direccion": "Avenida Central 707",
+  "suc_telefono": "+0123456789"
+}]

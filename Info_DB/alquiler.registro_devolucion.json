@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "650d956c427b859f50a99eff"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b376"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96212"
+  },
+  "regDev_fecha": {
+    "$date": "2023-08-15T00:00:00.000Z"
+  },
+  "regDev_combustible": {
+    "$numberDecimal": "30.5"
+  },
+  "regDev_kilometraje": 1500,
+  "regDev_montoAdicional": {
+    "$numberDecimal": "50.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "650d956c427b859f50a99f00"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b377"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96213"
+  },
+  "regDev_fecha": {
+    "$date": "2023-08-16T00:00:00.000Z"
+  },
+  "regDev_combustible": {
+    "$numberDecimal": "25.75"
+  },
+  "regDev_kilometraje": 1600,
+  "regDev_montoAdicional": {
+    "$numberDecimal": "30.75"
+  }
+},
+{
+  "_id": {
+    "$oid": "650d956c427b859f50a99f01"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b378"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96214"
+  },
+  "regDev_fecha": {
+    "$date": "2023-08-17T00:00:00.000Z"
+  },
+  "regDev_combustible": {
+    "$numberDecimal": "35.0"
+  },
+  "regDev_kilometraje": 1700,
+  "regDev_montoAdicional": {
+    "$numberDecimal": "65.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "650d956c427b859f50a99f02"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b379"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96215"
+  },
+  "regDev_fecha": {
+    "$date": "2023-08-18T00:00:00.000Z"
+  },
+  "regDev_combustible": {
+    "$numberDecimal": "28.25"
+  },
+  "regDev_kilometraje": 1800,
+  "regDev_montoAdicional": {
+    "$numberDecimal": "40.25"
+  }
+},
+{
+  "_id": {
+    "$oid": "650d956c427b859f50a99f03"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b37a"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96216"
+  },
+  "regDev_fecha": {
+    "$date": "2023-08-19T00:00:00.000Z"
+  },
+  "regDev_combustible": {
+    "$numberDecimal": "20.0"
+  },
+  "regDev_kilometraje": 1900,
+  "regDev_montoAdicional": {
+    "$numberDecimal": "15.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "650d956c427b859f50a99f04"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b37b"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96217"
+  },
+  "regDev_fecha": {
+    "$date": "2023-08-20T00:00:00.000Z"
+  },
+  "regDev_combustible": {
+    "$numberDecimal": "40.75"
+  },
+  "regDev_kilometraje": 2000,
+  "regDev_montoAdicional": {
+    "$numberDecimal": "80.75"
+  }
+},
+{
+  "_id": {
+    "$oid": "650d956c427b859f50a99f05"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b37c"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96218"
+  },
+  "regDev_fecha": {
+    "$date": "2023-08-21T00:00:00.000Z"
+  },
+  "regDev_combustible": {
+    "$numberDecimal": "32.0"
+  },
+  "regDev_kilometraje": 2100,
+  "regDev_montoAdicional": {
+    "$numberDecimal": "55.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "650d956c427b859f50a99f06"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b37d"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96219"
+  },
+  "regDev_fecha": {
+    "$date": "2023-08-22T00:00:00.000Z"
+  },
+  "regDev_combustible": {
+    "$numberDecimal": "37.25"
+  },
+  "regDev_kilometraje": 2200,
+  "regDev_montoAdicional": {
+    "$numberDecimal": "70.25"
+  }
+},
+{
+  "_id": {
+    "$oid": "650d956c427b859f50a99f07"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b37e"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d9621a"
+  },
+  "regDev_fecha": {
+    "$date": "2023-08-23T00:00:00.000Z"
+  },
+  "regDev_combustible": {
+    "$numberDecimal": "22.0"
+  },
+  "regDev_kilometraje": 2300,
+  "regDev_montoAdicional": {
+    "$numberDecimal": "25.0"
+  }
+},
+{
+  "_id": {
+    "$oid": "650d956c427b859f50a99f08"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b37f"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d9621b"
+  },
+  "regDev_fecha": {
+    "$date": "2023-08-24T00:00:00.000Z"
+  },
+  "regDev_combustible": {
+    "$numberDecimal": "18.5"
+  },
+  "regDev_kilometraje": 2400,
+  "regDev_montoAdicional": {
+    "$numberDecimal": "20.5"
+  }
+},
+{
+  "_id": {
+    "$oid": "650d956c427b859f50a99f09"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b380"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96201"
+  },
+  "regDev_fecha": {
+    "$date": "2023-08-25T00:00:00.000Z"
+  },
+  "regDev_combustible": {
+    "$numberDecimal": "29.75"
+  },
+  "regDev_kilometraje": 2500,
+  "regDev_montoAdicional": {
+    "$numberDecimal": "45.75"
+  }
+},
+{
+  "_id": {
+    "$oid": "650d956c427b859f50a99f0a"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b381"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96202"
+  },
+  "regDev_fecha": {
+    "$date": "2023-08-26T00:00:00.000Z"
+  },
+  "regDev_combustible": {
+    "$numberDecimal": "33.0"
+  },
+  "regDev_kilometraje": 2600,
+  "regDev_montoAdicional": {
+    "$numberDecimal": "60.0"
+  }
+}]

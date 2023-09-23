@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "650ae6f40a6a31213ef6b376"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d96208"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d961fe"
+  },
+  "alq_fechaInicio": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "alq_fechaFin": {
+    "$date": "2023-07-10T00:00:00.000Z"
+  },
+  "alq_costoTotal": 402.5,
+  "alq_estado": "En Curso"
+},
+{
+  "_id": {
+    "$oid": "650ae6f40a6a31213ef6b377"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d96208"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d961ff"
+  },
+  "alq_fechaInicio": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "alq_fechaFin": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "alq_costoTotal": 526.75,
+  "alq_estado": "En Curso"
+},
+{
+  "_id": {
+    "$oid": "650ae6f40a6a31213ef6b378"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d96209"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96200"
+  },
+  "alq_fechaInicio": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "alq_fechaFin": {
+    "$date": "2023-07-20T00:00:00.000Z"
+  },
+  "alq_costoTotal": 966.75,
+  "alq_estado": "En Curso"
+},
+{
+  "_id": {
+    "$oid": "650ae6f40a6a31213ef6b379"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d96209"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96201"
+  },
+  "alq_fechaInicio": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "alq_fechaFin": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "alq_costoTotal": 492.75,
+  "alq_estado": "En Curso"
+},
+{
+  "_id": {
+    "$oid": "650ae6f40a6a31213ef6b37a"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620a"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96202"
+  },
+  "alq_fechaInicio": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "alq_fechaFin": {
+    "$date": "2023-07-08T00:00:00.000Z"
+  },
+  "alq_costoTotal": 265.75,
+  "alq_estado": "En Curso"
+},
+{
+  "_id": {
+    "$oid": "650ae6f40a6a31213ef6b37b"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620a"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96203"
+  },
+  "alq_fechaInicio": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "alq_fechaFin": {
+    "$date": "2023-07-25T00:00:00.000Z"
+  },
+  "alq_costoTotal": 1013.25,
+  "alq_estado": "En Curso"
+},
+{
+  "_id": {
+    "$oid": "650ae6f40a6a31213ef6b37c"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620b"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96204"
+  },
+  "alq_fechaInicio": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "alq_fechaFin": {
+    "$date": "2023-07-18T00:00:00.000Z"
+  },
+  "alq_costoTotal": 780,
+  "alq_estado": "En Curso"
+},
+{
+  "_id": {
+    "$oid": "650ae6f40a6a31213ef6b37d"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620b"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96205"
+  },
+  "alq_fechaInicio": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "alq_fechaFin": {
+    "$date": "2023-07-28T00:00:00.000Z"
+  },
+  "alq_costoTotal": 968.25,
+  "alq_estado": "En Curso"
+},
+{
+  "_id": {
+    "$oid": "650ae6f40a6a31213ef6b37e"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620c"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96206"
+  },
+  "alq_fechaInicio": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "alq_fechaFin": {
+    "$date": "2023-07-06T00:00:00.000Z"
+  },
+  "alq_costoTotal": 442,
+  "alq_estado": "En Curso"
+},
+{
+  "_id": {
+    "$oid": "650ae6f40a6a31213ef6b37f"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620c"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96207"
+  },
+  "alq_fechaInicio": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "alq_fechaFin": {
+    "$date": "2023-07-03T00:00:00.000Z"
+  },
+  "alq_costoTotal": 265.75,
+  "alq_estado": "En Curso"
+},
+{
+  "_id": {
+    "$oid": "650ae6f40a6a31213ef6b380"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620d"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96201"
+  },
+  "alq_fechaInicio": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "alq_fechaFin": {
+    "$date": "2023-08-10T00:00:00.000Z"
+  },
+  "alq_costoTotal": 1229.75,
+  "alq_estado": "En Curso"
+},
+{
+  "_id": {
+    "$oid": "650ae6f40a6a31213ef6b381"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620d"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96202"
+  },
+  "alq_fechaInicio": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "alq_fechaFin": {
+    "$date": "2023-08-20T00:00:00.000Z"
+  },
+  "alq_costoTotal": 1489.5,
+  "alq_estado": "En Curso"
+}]

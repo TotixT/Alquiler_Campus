@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "650d97e3427b859f50a99f0b"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b376"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96212"
+  },
+  "regEnt_fecha": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "regEnt_combustible": {
+    "$numberDecimal": "30.5"
+  },
+  "regEnt_kilometraje": 1500
+},
+{
+  "_id": {
+    "$oid": "650d97e3427b859f50a99f0c"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b377"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96213"
+  },
+  "regEnt_fecha": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "regEnt_combustible": {
+    "$numberDecimal": "25.75"
+  },
+  "regEnt_kilometraje": 1600
+},
+{
+  "_id": {
+    "$oid": "650d97e3427b859f50a99f0d"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b378"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96214"
+  },
+  "regEnt_fecha": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "regEnt_combustible": {
+    "$numberDecimal": "35.0"
+  },
+  "regEnt_kilometraje": 1700
+},
+{
+  "_id": {
+    "$oid": "650d97e3427b859f50a99f0e"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b379"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96215"
+  },
+  "regEnt_fecha": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "regEnt_combustible": {
+    "$numberDecimal": "28.25"
+  },
+  "regEnt_kilometraje": 1800
+},
+{
+  "_id": {
+    "$oid": "650d97e3427b859f50a99f0f"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b37a"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96216"
+  },
+  "regEnt_fecha": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "regEnt_combustible": {
+    "$numberDecimal": "20.0"
+  },
+  "regEnt_kilometraje": 1900
+},
+{
+  "_id": {
+    "$oid": "650d97e3427b859f50a99f10"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b37b"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96217"
+  },
+  "regEnt_fecha": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "regEnt_combustible": {
+    "$numberDecimal": "40.75"
+  },
+  "regEnt_kilometraje": 2000
+},
+{
+  "_id": {
+    "$oid": "650d97e3427b859f50a99f11"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b37c"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96218"
+  },
+  "regEnt_fecha": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "regEnt_combustible": {
+    "$numberDecimal": "32.0"
+  },
+  "regEnt_kilometraje": 2100
+},
+{
+  "_id": {
+    "$oid": "650d97e3427b859f50a99f12"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b37d"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96219"
+  },
+  "regEnt_fecha": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "regEnt_combustible": {
+    "$numberDecimal": "37.25"
+  },
+  "regEnt_kilometraje": 2200
+},
+{
+  "_id": {
+    "$oid": "650d97e3427b859f50a99f13"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b37e"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d9621a"
+  },
+  "regEnt_fecha": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "regEnt_combustible": {
+    "$numberDecimal": "22.0"
+  },
+  "regEnt_kilometraje": 2300
+},
+{
+  "_id": {
+    "$oid": "650d97e3427b859f50a99f14"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b37f"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d9621b"
+  },
+  "regEnt_fecha": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "regEnt_combustible": {
+    "$numberDecimal": "18.5"
+  },
+  "regEnt_kilometraje": 2400
+},
+{
+  "_id": {
+    "$oid": "650d97e3427b859f50a99f15"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b380"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96201"
+  },
+  "regEnt_fecha": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "regEnt_combustible": {
+    "$numberDecimal": "29.75"
+  },
+  "regEnt_kilometraje": 2500
+},
+{
+  "_id": {
+    "$oid": "650d97e3427b859f50a99f16"
+  },
+  "alq_id": {
+    "$oid": "650ae6f40a6a31213ef6b381"
+  },
+  "emp_id": {
+    "$oid": "6508a2bd43f9b67393d96202"
+  },
+  "regEnt_fecha": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "regEnt_combustible": {
+    "$numberDecimal": "33.0"
+  },
+  "regEnt_kilometraje": 2600
+}]

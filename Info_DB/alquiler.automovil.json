@@ -1,0 +1,110 @@
+  [{
+    "_id": {
+      "$oid": "6508a09143f9b67393d961fe"
+    },
+    "auto_marca": "Toyota",
+    "auto_modelo": "Corolla",
+    "auto_año": 2022,
+    "auto_tipo": "Sedán",
+    "auto_capacidad": 5,
+    "auto_precioDiario": 80.5
+  },
+  {
+    "_id": {
+      "$oid": "6508a09143f9b67393d961ff"
+    },
+    "auto_marca": "Honda",
+    "auto_modelo": "Civic",
+    "auto_año": 2023,
+    "auto_tipo": "Sedán",
+    "auto_capacidad": 5,
+    "auto_precioDiario": 75.25
+  },
+  {
+    "_id": {
+      "$oid": "6508a09143f9b67393d96200"
+    },
+    "auto_marca": "Ford",
+    "auto_modelo": "Escape",
+    "auto_año": 2022,
+    "auto_tipo": "SUV",
+    "auto_capacidad": 5,
+    "auto_precioDiario": 90.75
+  },
+  {
+    "_id": {
+      "$oid": "6508a09143f9b67393d96201"
+    },
+    "auto_marca": "Chevrolet",
+    "auto_modelo": "Malibu",
+    "auto_año": 2023,
+    "auto_tipo": "Sedán",
+    "auto_capacidad": 5,
+    "auto_precioDiario": 85
+  },
+  {
+    "_id": {
+      "$oid": "6508a09143f9b67393d96202"
+    },
+    "auto_marca": "Volkswagen",
+    "auto_modelo": "Jetta",
+    "auto_año": 2022,
+    "auto_tipo": "Sedán",
+    "auto_capacidad": 5,
+    "auto_precioDiario": 78.9
+  },
+  {
+    "_id": {
+      "$oid": "6508a09143f9b67393d96203"
+    },
+    "auto_marca": "Hyundai",
+    "auto_modelo": "Tucson",
+    "auto_año": 2023,
+    "auto_tipo": "SUV",
+    "auto_capacidad": 5,
+    "auto_precioDiario": 95.25
+  },
+  {
+    "_id": {
+      "$oid": "6508a09143f9b67393d96204"
+    },
+    "auto_marca": "Kia",
+    "auto_modelo": "Sportage",
+    "auto_año": 2022,
+    "auto_tipo": "SUV",
+    "auto_capacidad": 5,
+    "auto_precioDiario": 92.5
+  },
+  {
+    "_id": {
+      "$oid": "6508a09143f9b67393d96205"
+    },
+    "auto_marca": "Nissan",
+    "auto_modelo": "Altima",
+    "auto_año": 2023,
+    "auto_tipo": "Sedán",
+    "auto_capacidad": 5,
+    "auto_precioDiario": 87.75
+  },
+  {
+    "_id": {
+      "$oid": "6508a09143f9b67393d96206"
+    },
+    "auto_marca": "Mazda",
+    "auto_modelo": "CX-5",
+    "auto_año": 2022,
+    "auto_tipo": "SUV",
+    "auto_capacidad": 5,
+    "auto_precioDiario": 88.4
+  },
+  {
+    "_id": {
+      "$oid": "6508a09143f9b67393d96207"
+    },
+    "auto_marca": "Subaru",
+    "auto_modelo": "Outback",
+    "auto_año": 2023,
+    "auto_tipo": "SUV",
+    "auto_capacidad": 5,
+    "auto_precioDiario": 91.6
+  }]

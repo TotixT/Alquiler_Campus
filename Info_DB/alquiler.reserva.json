@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "650ae31c0a6a31213ef6b35e"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d96208"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d961fe"
+  },
+  "res_fecha": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "res_fechaInicio": {
+    "$date": "2023-07-10T00:00:00.000Z"
+  },
+  "res_fechaFin": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "res_estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "650ae31c0a6a31213ef6b35f"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d96208"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d961ff"
+  },
+  "res_fecha": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "res_fechaInicio": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "res_fechaFin": {
+    "$date": "2023-07-17T00:00:00.000Z"
+  },
+  "res_estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "650ae31c0a6a31213ef6b360"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d96209"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96200"
+  },
+  "res_fecha": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "res_fechaInicio": {
+    "$date": "2023-07-20T00:00:00.000Z"
+  },
+  "res_fechaFin": {
+    "$date": "2023-07-25T00:00:00.000Z"
+  },
+  "res_estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "650ae31c0a6a31213ef6b361"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d96209"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96201"
+  },
+  "res_fecha": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "res_fechaInicio": {
+    "$date": "2023-07-15T00:00:00.000Z"
+  },
+  "res_fechaFin": {
+    "$date": "2023-07-20T00:00:00.000Z"
+  },
+  "res_estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "650ae31c0a6a31213ef6b362"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620a"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96202"
+  },
+  "res_fecha": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "res_fechaInicio": {
+    "$date": "2023-07-08T00:00:00.000Z"
+  },
+  "res_fechaFin": {
+    "$date": "2023-07-13T00:00:00.000Z"
+  },
+  "res_estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "650ae31c0a6a31213ef6b363"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620a"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96203"
+  },
+  "res_fecha": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "res_fechaInicio": {
+    "$date": "2023-07-25T00:00:00.000Z"
+  },
+  "res_fechaFin": {
+    "$date": "2023-07-30T00:00:00.000Z"
+  },
+  "res_estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "650ae31c0a6a31213ef6b364"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620b"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96204"
+  },
+  "res_fecha": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "res_fechaInicio": {
+    "$date": "2023-07-18T00:00:00.000Z"
+  },
+  "res_fechaFin": {
+    "$date": "2023-07-23T00:00:00.000Z"
+  },
+  "res_estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "650ae31c0a6a31213ef6b365"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620b"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96205"
+  },
+  "res_fecha": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "res_fechaInicio": {
+    "$date": "2023-07-28T00:00:00.000Z"
+  },
+  "res_fechaFin": {
+    "$date": "2023-08-02T00:00:00.000Z"
+  },
+  "res_estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "650ae31c0a6a31213ef6b366"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620c"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96206"
+  },
+  "res_fecha": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "res_fechaInicio": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "res_fechaFin": {
+    "$date": "2023-07-06T00:00:00.000Z"
+  },
+  "res_estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "650ae31c0a6a31213ef6b367"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620c"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96207"
+  },
+  "res_fecha": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "res_fechaInicio": {
+    "$date": "2023-07-03T00:00:00.000Z"
+  },
+  "res_fechaFin": {
+    "$date": "2023-07-08T00:00:00.000Z"
+  },
+  "res_estado": "Pendiente"
+},
+{
+  "_id": {
+    "$oid": "650ae31c0a6a31213ef6b368"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620d"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96201"
+  },
+  "res_fecha": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "res_fechaInicio": {
+    "$date": "2023-08-10T00:00:00.000Z"
+  },
+  "res_fechaFin": {
+    "$date": "2023-08-15T00:00:00.000Z"
+  },
+  "res_estado": "Reservado"
+},
+{
+  "_id": {
+    "$oid": "650ae31c0a6a31213ef6b369"
+  },
+  "cli_id": {
+    "$oid": "6508a18b43f9b67393d9620d"
+  },
+  "aut_id": {
+    "$oid": "6508a09143f9b67393d96202"
+  },
+  "res_fecha": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "res_fechaInicio": {
+    "$date": "2023-08-20T00:00:00.000Z"
+  },
+  "res_fechaFin": {
+    "$date": "2023-08-25T00:00:00.000Z"
+  },
+  "res_estado": "Pendiente"
+}]

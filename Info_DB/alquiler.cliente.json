@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6508a18b43f9b67393d96208"
+  },
+  "cli_nombre": "Juan",
+  "cli_apellido": "Pérez",
+  "cli_dni": "12345678",
+  "cli_direccion": "Calle Principal 123",
+  "cli_telefono": "+1234567890",
+  "cli_email": "juan@example.com"
+},
+{
+  "_id": {
+    "$oid": "6508a18b43f9b67393d96209"
+  },
+  "cli_nombre": "María",
+  "cli_apellido": "González",
+  "cli_dni": "23456789",
+  "cli_direccion": "Avenida Central 456",
+  "cli_telefono": "+2345678901",
+  "cli_email": "maria@example.com"
+},
+{
+  "_id": {
+    "$oid": "6508a18b43f9b67393d9620a"
+  },
+  "cli_nombre": "Luis",
+  "cli_apellido": "Martínez",
+  "cli_dni": "34567890",
+  "cli_direccion": "Calle Secundaria 789",
+  "cli_telefono": "+3456789012",
+  "cli_email": "luis@example.com"
+},
+{
+  "_id": {
+    "$oid": "6508a18b43f9b67393d9620b"
+  },
+  "cli_nombre": "Ana",
+  "cli_apellido": "López",
+  "cli_dni": "45678901",
+  "cli_direccion": "Avenida Norte 101",
+  "cli_telefono": "+4567890123",
+  "cli_email": "ana@example.com"
+},
+{
+  "_id": {
+    "$oid": "6508a18b43f9b67393d9620c"
+  },
+  "cli_nombre": "Carlos",
+  "cli_apellido": "Sánchez",
+  "cli_dni": "56789012",
+  "cli_direccion": "Calle Oeste 202",
+  "cli_telefono": "+5678901234",
+  "cli_email": "carlos@example.com"
+},
+{
+  "_id": {
+    "$oid": "6508a18b43f9b67393d9620d"
+  },
+  "cli_nombre": "Laura",
+  "cli_apellido": "Ramírez",
+  "cli_dni": "67890123",
+  "cli_direccion": "Avenida Sur 303",
+  "cli_telefono": "+6789012345",
+  "cli_email": "laura@example.com"
+},
+{
+  "_id": {
+    "$oid": "6508a18b43f9b67393d9620e"
+  },
+  "cli_nombre": "Pedro",
+  "cli_apellido": "Díaz",
+  "cli_dni": "78901234",
+  "cli_direccion": "Calle Este 404",
+  "cli_telefono": "+7890123456",
+  "cli_email": "pedro@example.com"
+},
+{
+  "_id": {
+    "$oid": "6508a18b43f9b67393d9620f"
+  },
+  "cli_nombre": "Sofía",
+  "cli_apellido": "Torres",
+  "cli_dni": "89012345",
+  "cli_direccion": "Avenida Oeste 505",
+  "cli_telefono": "+8901234567",
+  "cli_email": "sofia@example.com"
+},
+{
+  "_id": {
+    "$oid": "6508a18b43f9b67393d96210"
+  },
+  "cli_nombre": "Diego",
+  "cli_apellido": "Hernández",
+  "cli_dni": "90123456",
+  "cli_direccion": "Calle Principal 606",
+  "cli_telefono": "+9012345678",
+  "cli_email": "diego@example.com"
+},
+{
+  "_id": {
+    "$oid": "6508a18b43f9b67393d96211"
+  },
+  "cli_nombre": "Natalia",
+  "cli_apellido": "Vargas",
+  "cli_dni": "01234567",
+  "cli_direccion": "Avenida Central 707",
+  "cli_telefono": "+0123456789",
+  "cli_email": "natalia@example.com"
+}]
